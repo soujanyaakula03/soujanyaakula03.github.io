@@ -1,87 +1,87 @@
 # 👋 Hi, I’m Soujanya Akula
 
-**Software Developer** | **Full Stack Developer** | **Cloud & Microservices Enthusiast**
+**Software Developer** | **Full Stack Engineer** | **Cloud & Microservices Enthusiast**
 
-📍 Lansing, MI | 📧 soujanyaakula03@gmail.com | 📞 +1 6163031298
+📍 United States | 📧 soujanyaakula03@gmail.com | 📞 +1 616-303-1298
 
-🌐 [LinkedIn](https://www.linkedin.com/in/soujanya-akula/)
+🌐 [LinkedIn](https://www.linkedin.com/in/devi-soujanya-akula-b634191b9/)
 
 ---
 
 ## 🧭 About Me
 
-I have over seven years of experience as a full stack developer building large-scale enterprise applications across multiple industries. I work across the entire development lifecycle, from UI design to database management and API layers, with a true 50/50 split between frontend and backend. I specialize in building high-performance React interfaces, scalable microservices, and secure API endpoints. I enjoy optimizing system performance, reducing deployment cycles, and creating reliable systems used by thousands of users daily.
+I am a full stack software developer with more than seven years of experience building enterprise systems across insurance, banking, and large technology organizations. I work across the entire development lifecycle, including frontend architecture, backend services, API platforms, and database systems. I am known for delivering high-performance React interfaces, scalable Node-based services, and secure APIs that support heavy production traffic. My focus is on performance tuning, maintainable architecture, and shortening delivery cycles while supporting systems used by thousands of daily users.
 
-* **7+ years** of experience as a full-stack developer on large-scale enterprise applications.
-* Build and maintain **40+ robust REST APIs** and GraphQL endpoints supporting core operations.
-* Develop high-performance frontend interfaces using **React and Next.js**, optimizing load times by **30%**.
-* Deploy and support containerized workloads on **AWS** using **Docker and Kubernetes**.
-* Implement **microservices architectures** that reduce deployment times by **40%**.
-* Design and optimize **PostgreSQL, MySQL, and MongoDB** schemas for high-volume data.
-* Apply **Redis caching** strategies to reduce database load by approximately **35%**.
+* **7+ years** building full stack enterprise software across financial services, insurance, and technology platforms.
+* Designed and maintained **40+ REST and GraphQL APIs** powering critical production services.
+* Improved **React and Next.js** interface performance by approximately **30%** through rendering and data-loading optimizations.
+* Implemented **microservice-based service boundaries** that reduced deployment cycles by about **40%**.
+* Introduced **Redis caching layers** that lowered database load by roughly **35%**.
+* Optimized indexing and database queries to improve API performance by up to **20%**.
+* Supported production systems processing up to **1.5 million API requests per day**.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:** TypeScript, JavaScript (ES6+), Python, HTML5, CSS3, SQL  
-**Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, Django, Flask, Tailwind CSS  
+**Languages:** TypeScript, JavaScript ES6+, Python, SQL, HTML5, CSS3  
+**Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Django, Flask, Tailwind CSS  
 **Frontend State:** Redux, Redux Toolkit, Zustand, React Query, Context API  
-**Web & API:** REST APIs, GraphQL, WebSockets, Postman, Apollo  
+**Web & API:** REST APIs, GraphQL, WebSockets, Apollo, Postman  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Prisma, TypeORM  
 **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, GitHub Actions  
 **Testing:** Jest, React Testing Library, Cypress, Pytest  
-**Methods:** Agile Scrum, Microservices, CI/CD, JWT/OAuth Security  
+**Engineering Practices:** Agile Scrum, Microservices, CI/CD, JWT Authentication, OAuth Security
 
 ---
 
 ## 💼 Work Experience
 
-### Auto Owners Insurance Group, Lansing, Michigan  
+### Auto Owners Insurance Group - Lansing, Michigan  
 **Software Developer** | June 2025 to Present
-* Build enterprise applications supporting insurance clients with thousands of daily users.
-* Develop **React and TypeScript** screens that improved user task completion time by **25%**.
-* Design and maintain REST and GraphQL APIs handling nearly **800,000 requests per day**.
-* Improve API performance by **20%** through database query tuning and index optimization.
-* Manage CI/CD pipelines using **Jenkins and GitHub Actions** for automated builds and deployments.
+* Build enterprise insurance applications used by thousands of daily users across policy and claims systems.
+* Develop **React and TypeScript** interfaces that reduced user task completion time by roughly **25%**.
+* Design and maintain REST and GraphQL APIs handling close to **800,000 requests per day**.
+* Improve service performance through database indexing, query tuning, and caching strategies.
+* Maintain automated build and deployment pipelines using **Jenkins and GitHub Actions**.
 
-**Environment:** React.js, TypeScript, Node.js, Python, GraphQL, PostgreSQL, MongoDB, Docker, Kubernetes, AWS
+**Environment:** React, TypeScript, Node.js, Python, GraphQL, PostgreSQL, MongoDB, Docker, Kubernetes, AWS
 
 ---
 
-### Bank of America, Chicago, IL  
+### Bank of America - Chicago, Illinois  
 **Software Developer** | August 2023 to June 2025
-* Developed full stack features for internal banking platforms serving over **20,000 users**.
-* Implemented high-volume APIs handling **1.5 million requests per day** with stable performance.
-* Integrated **JWT and OAuth-based authentication** to meet strict enterprise security compliance.
-* Utilized **Redis caching** to reduce database calls by **40%** during peak traffic periods.
-* Supported **Kubernetes** deployments with rolling updates to ensure zero-downtime releases.
+* Developed full stack functionality for internal banking platforms used by more than **20,000 employees**.
+* Built high throughput APIs capable of handling approximately **1.5 million requests per day**.
+* Implemented secure authentication mechanisms using **JWT and OAuth** per enterprise security requirements.
+* Introduced **Redis caching strategies** that reduced database calls by **40%** during peak traffic.
+* Supported containerized **Kubernetes** deployments with rolling update strategies.
 
-**Environment:** React.js, TypeScript, Node.js, Express.js, GraphQL, Redis, AWS (EC2, Lambda, S3), Docker, OAuth
+**Environment:** React, TypeScript, Node.js, Express.js, GraphQL, Redis, AWS (EC2, Lambda, S3), Docker, OAuth
 
 ---
 
-### L&T Technologies, Dearborn, Michigan  
+### L&T Technologies - Dearborn, Michigan  
 **Software Developer** | December 2021 to July 2023
-* Engineered scalable **React-based frontend solutions** for complex organizational case management.
-* Built robust backend services in **Node.js** to power enterprise reporting pipelines and data access layers.
-* Architected enterprise-grade **PostgreSQL and MySQL** databases handling millions of records.
-* Reduced API response times by **25%** through strategic refactoring and query tuning.
-* Established unit and integration testing practices to validate critical business logic.
+* Built scalable **React interfaces** for enterprise case management systems supporting operational workflows.
+* Developed backend services in **Node.js** to power reporting pipelines and data access services.
+* Designed **PostgreSQL and MySQL** schemas managing millions of structured records.
+* Reduced API latency by approximately **25%** through service refactoring and optimized queries.
+* Introduced structured **unit and integration testing** practices for critical services.
 
-**Environment:** React.js, Node.js, Express.js, REST APIs, PostgreSQL, MySQL, AWS (EC2, S3, RDS), JWT, Git
+**Environment:** React, Node.js, Express.js, REST APIs, PostgreSQL, MySQL, AWS (EC2, S3, RDS), JWT, Git
 
 ---
 
-### TCS, Hyderabad, India  
+### Tata Consultancy Services - Hyderabad, India  
 **Software Developer** | January 2018 to November 2021
-* Developed full stack features for enterprise web applications across global business domains.
-* Built React user interfaces for dashboards and tools used by hundreds of daily users.
-* Designed REST APIs handling **300,000 requests per day** and optimized MySQL queries.
-* Assisted in reducing manual deployment efforts by **20%** through **Jenkins** pipeline support.
-* Collaborated in Agile teams to deliver 10+ features per release cycle with **99%+ uptime**.
+* Delivered full stack functionality for enterprise applications used by global teams.
+* Built **React dashboards** and operational tools accessed by hundreds of users each day.
+* Developed REST APIs processing more than **300,000 requests daily**.
+* Reduced manual deployment work by introducing **Jenkins pipeline automation**.
+* Collaborated in Agile teams delivering multiple feature releases while maintaining high system uptime.
 
-**Environment:** React.js, JavaScript, HTML5, CSS3, Node.js, Express.js, MySQL, Jest, Jenkins, Agile
+**Environment:** React, JavaScript, HTML, CSS, Node.js, Express.js, MySQL, Jest, Jenkins, Agile
 
 ---
 
@@ -92,19 +92,19 @@ I have over seven years of experience as a full stack developer building large-s
 
 ---
 
-## 🧩 Strengths
+## 🧩 Core Strengths
 
-* **Full Stack Ownership:** Experienced in taking features from UI design to database implementation.
-* **Performance Focused:** Proven track record of optimizing page loads and database response times.
-* **Scalability Minded:** Expert in microservices and containerized deployments for large-scale users.
-* **Quality Driven:** Committed to high test coverage and maintaining enterprise-level standards.
+* **Full Stack Delivery:** Comfortable owning features end-to-end from UI design to backend services and database implementation.
+* **Performance Engineering:** Strong experience improving responsiveness through frontend optimization and backend query tuning.
+* **Scalable Architecture:** Designs microservice systems and containerized workloads capable of handling large-scale traffic.
+* **Engineering Discipline:** Maintains clean code standards, testing coverage, and reliable deployment processes.
 
 ---
 
 ## 🌐 Let’s Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/soujanya-akula/) | 📧 [Email Me](mailto:soujanyaakula03@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/devi-soujanya-akula-b634191b9/) | 📧 [Email Me](mailto:soujanyaakula03@gmail.com)
 
 ---
 
-⭐ *“Building high-performance, scalable enterprise solutions with a focus on efficiency and clean architecture.”*
+⭐ *“Building scalable, secure enterprise systems with clean architecture, reliable APIs, and high performance user experiences.”*
